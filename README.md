@@ -1,4 +1,0 @@
-GBS
-===
-
-GBSwebsite
